@@ -11,4 +11,4 @@
 - It is a language model with immense scale
 - It is trained on massive volume of data.
 - LLM contains neural networks with billions of parameters, allowing it to learn complex patterns and relationships in language.
-- Example :- GPT-3, GPT-4, ChatGPT
+- Example :- GPT-3, GPT-4 etc. 
